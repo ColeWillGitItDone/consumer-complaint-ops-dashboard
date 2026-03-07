@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# Large data files
+Data/01.raw/
+Data/02.processed/
+
+# Optional generated tables/charts if desired
+# Outputs/
