@@ -6,13 +6,13 @@ This project analyzes publicly available CFPB consumer complaint data using Pyth
 ## Visual Highlights
 
 ### Monthly Complaint Volume
-![Monthly Complaint Volume](outputs/01.charts/monthly_complaints.png)
+![Monthly Complaint Volume](https://raw.githubusercontent.com/ColeWillGitItDone/consumer-complaint-ops-dashboard/main/outputs/01.charts/monthly_complaints.png)
 
 ### Top 10 Products by Complaint Volume
-![Top 10 Products by Complaint Volume](outputs/01.charts/top_products.png)
+![Top 10 Products by Complaint Volume](https://raw.githubusercontent.com/ColeWillGitItDone/consumer-complaint-ops-dashboard/main/outputs/01.charts/top_products.png)
 
 ### Top 10 Issues by Complaint Volume
-![Top 10 Issues by Complaint Volume](outputs/01.charts/top_issues.png)
+![Top 10 Issues by Complaint Volume](https://raw.githubusercontent.com/ColeWillGitItDone/consumer-complaint-ops-dashboard/main/outputs/01.charts/top_issues.png)
 
 ## Tools Used
 - Python
