@@ -3,6 +3,17 @@
 ## Overview
 This project analyzes publicly available CFPB consumer complaint data using Python in VS Code. The goal is to identify complaint trends, product concentration, issue concentration, and state-level patterns relevant to operations, service quality, and process improvement.
 
+## Visual Highlights
+
+### Monthly Complaint Volume
+![Monthly Complaint Volume](outputs/01.charts/monthly_complaints.png)
+
+### Top 10 Products by Complaint Volume
+![Top 10 Products by Complaint Volume](outputs/01.charts/top_products.png)
+
+### Top 10 Issues by Complaint Volume
+![Top 10 Issues by Complaint Volume](outputs/01.charts/top_issues.png)
+
 ## Tools Used
 - Python
 - pandas
